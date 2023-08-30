@@ -94,7 +94,7 @@ class UI {
       };
 
       let str = data.title;
-      if (window.innerWidth <= 350) {
+      if (window.innerWidth <= 600) {
         if (data.title.length > 30) {
           // let str = data.title
           // console.log(str)
